@@ -28,16 +28,16 @@
 .header-list {
     display: inline-block;
     margin-left: 30px;
-    background-color: rgba(92, 190, 251, 0.5);
-    opacity: 0;
+    /* background-color: rgba(92, 190, 251, 0.5); */
+    /* opacity: 0; */
     padding: 24px 0;
     transition: 2s;
-    z-index: -1;
+    /* z-index: -1; */
 }
-.header-list:hover{
+/* .header-list:hover{
     opacity: 1
 
-}
+} */
 .header-ul .header-list .header-link {
     text-decoration: none;
     color: #fff;
